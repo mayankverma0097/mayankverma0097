@@ -39,7 +39,7 @@
 
 ### 🌍 Live Application
 
-👉 **https://yourapp.vercel.app**
+👉 **https://yourapp.vercel.app](https://flickwise.vercel.app**
 
 ---
 
