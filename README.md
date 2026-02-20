@@ -84,7 +84,9 @@
   <img src="images/home2.png" width="800" />
 </p>
 
-
+<p align="center">
+  <img src="images/result1.png" width="800" />
+</p>
 
 
 ---
