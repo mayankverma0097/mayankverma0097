@@ -77,11 +77,16 @@
 ### 📸 Preview
 
 <p align="center">
-  <img src="images/home.png" width="800" />
+  <img src="images/home1.png" width="800" />
 </p>
 
 <p align="center">
-  <img src="images/results.png" width="800" />
+  <img src="images/home2.png" width="800" />
+</p>
+
+
+<p align="center">
+  <img src="images/result1.png" width="800" />
 </p>
 
 ---
