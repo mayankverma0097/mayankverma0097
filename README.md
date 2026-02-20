@@ -1,56 +1,91 @@
-<h1 align="center">🎬 Movie Recommendation AI</h1>
+<h1 align="center">Hi 👋 I'm Mayank Verma</h1>
+
+<h3 align="center">🚀 MERN Stack Developer | Full Stack Web Developer</h3>
 
 <p align="center">
-  AI-powered movie suggestions based on your input 🤖✨
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-API-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge" />
+  I build scalable full-stack web applications using modern technologies.
 </p>
 
 ---
 
-## 🚀 Live Application
+## 👨‍💻 About Me
 
-🌍 **Try it now:**  
+- 💻 MERN Stack Developer
+- 🧠 Passionate about Backend Architecture & Clean Code
+- 🤖 Interested in AI-powered applications
+- ⚡ Focused on performance & scalability
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,html,css,git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Projects
+
+---
+
+## 1️⃣ 🎬 Movie Recommendation System (AI Powered)
+
+<p align="center">
+  Smart movie suggestions based on user input using AI 🤖
+</p>
+
+---
+
+### 🌍 Live Application
+
 👉 **https://yourapp.vercel.app**
 
 ---
 
-## ✨ What It Does
+### ✨ Features
 
-- 🎥 Suggests movies using AI
-- 🔎 Recommend by movie name
-- 🏷️ Recommend by category/genre
-- ⚡ Fast & responsive UI
-- 🤖 Smart AI-based recommendations
+- 🎥 Recommend movies by name
+- 🏷️ Suggest movies by genre/category
+- 🤖 AI-powered intelligent suggestions
+- ⚡ Fast and responsive UI
+- 🌙 Modern clean interface
 
 ---
 
-## 📸 App Preview
+### 🧠 How It Works
+
+1. User enters movie name or category  
+2. Request sent to backend API  
+3. AI processes the input  
+4. Returns smart recommendations  
+5. Results displayed instantly  
+
+---
+
+### 🛠 Built With
+
+<p>
+  ⚛️ React.js (Frontend) <br>
+  🟢 Node.js (Backend) <br>
+  🚀 Express.js (API Layer) <br>
+  🤖 AI Integration for recommendations
+</p>
+
+---
+
+### 📸 Preview
 
 <p align="center">
-  <img src="images/home.png" width="800"/>
+  <img src="images/home.png" width="800" />
 </p>
 
 <p align="center">
-  <img src="images/results.png" width="800"/>
+  <img src="images/results.png" width="800" />
 </p>
 
 ---
 
-## 👨‍💻 Built With
-
-- ⚛️ React.js
-- 🟢 Node.js
-- 🚀 Express.js
-- 🤖 AI Integration
-
----
-
 <p align="center">
-  ⭐ If you like the project, check out the live demo above!
+  ⭐ More exciting projects coming soon...
 </p>
