@@ -39,7 +39,7 @@
 
 ### 🌍 Live Application
 
-👉 **https://flickwise.vercel.app**
+👉 **https://mayankverma.cloud/**
 
 ---
 
